@@ -1,0 +1,29 @@
+@import url('https://cdn.jsdelivr.net/npm/@catppuccin/palette/css/catppuccin.css');
+
+body{
+    background-color: var(--ctp-mocha-base);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: var(--ctp-mocha-flamingo)
+}
+
+.about{
+    margin-left: 20%;
+    margin-right: 20%;
+    color: var(--ctp-mocha-text)
+}
+
+.skills{
+    color: var(--ctp-mocha-rosewater)
+}
+
+.projects{
+    color: var(--ctp-mocha-lavender)
+}
+
+.contact{
+    color: var(--ctp-mocha-pink)
+}
