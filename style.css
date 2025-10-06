@@ -4,7 +4,7 @@ body{
     background-color: var(--ctp-mocha-base);
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    cursor: url("./default.svg"), auto;
+    cursor: url("./files/cursor.svg"), auto;
     margin: 0px;
     padding: 0px;
     height: 100vh;
@@ -30,4 +30,13 @@ h1{
 
 .contact{
     color: var(--ctp-mocha-pink)
+}
+
+img{
+    width: 30%;
+    height: auto;
+}
+
+a{
+    color: var(--ctp-mocha-blue);
 }
