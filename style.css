@@ -24,16 +24,13 @@ h1{
     color: var(--ctp-mocha-rosewater)
 }
 
-.projects{
-    color: var(--ctp-mocha-lavender)
-}
 
 .contact{
     color: var(--ctp-mocha-pink)
 }
 
 img{
-    width: 30%;
+    width: 75%;
     height: auto;
 }
 
@@ -44,12 +41,14 @@ a{
 .projects{
     display: flex;
     flex-wrap: wrap;
+    color: var(--ctp-mocha-lavender);
 }
 
-.projects{
+.project{
     width: 30%;
     margin: 10px;
     padding: 20px 10px;
-    background: var(--ctp-mocha-overlay1);
+    background: var(--ctp-mocha-overlay0);
+    color: var(--ctp-mocha-text0);
     border-radius: 25%;
 }
