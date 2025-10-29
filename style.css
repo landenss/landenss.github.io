@@ -39,9 +39,15 @@ a{
 }
 
 .projects{
+    
     display: flex;
     flex-wrap: wrap;
     color: var(--ctp-mocha-lavender);
+}
+
+.projects h2{
+    display:block;
+    text-align: center;
 }
 
 .project{
