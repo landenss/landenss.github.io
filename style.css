@@ -45,9 +45,8 @@ a{
     color: var(--ctp-mocha-lavender);
 }
 
-.projects h2{
-    display:block;
-    text-align: center;
+#projectTitle{
+    color: var(--ctp-mocha-lavender);
 }
 
 .project{
