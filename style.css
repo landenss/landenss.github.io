@@ -57,3 +57,11 @@ a{
     color: var(--ctp-mocha-text0);
     border-radius: 25%;
 }
+
+#bash{
+    width: 60%;
+}
+
+#java{
+    width: 60%;
+}
